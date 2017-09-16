@@ -18,7 +18,7 @@ See the [project page](http://qianyi.info/urban.html) for a complete list of pub
 
 The project is ancient. I am not intending to provide support. You are at your own risk.
 
-For quick start, find the prebuilt package under the [prebuild-win32](prebuilt-win32) folder. It includes executables, testing data, detailed documentation, and a demo video. The executables run on Windows platform. If you work on Linux or OS X, [Wine](https://www.winehq.org/) may help you.
+For quick start, find the prebuilt package under the [prebuild-win32](prebuilt-win32) folder. The prebuilt package can also be downloaded from [Google Drive](https://drive.google.com/open?id=0B5PCxplTS-ZdQ2lkOGJpbERDZnc). It includes executables, testing data, detailed documentation, and a demo video. The executables run on Windows platform. If you work on Linux or OS X, [Wine](https://www.winehq.org/) may help you.
 
 The [src](src) folder includes the source code of the entire project. The code was ancient. I developed it with Visual Studio 2008. A modern [Visual Studio](https://www.visualstudio.com/) *should* be able to convert the project into a modern format and compile it. There might be some OpenGL or GUI related code that causes compilation problems. However, this project is a pure console program except the visualization and debugging tool called "huma". If it causes problem, just remove it.
 
